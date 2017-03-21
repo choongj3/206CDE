@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.realworldproject.group03.rashhour.Result_b_impe">
+    tools:context="com.realworldproject.group03.rashhour.result_b_impe">
 
     <TextView
         android:id="@+id/title"
